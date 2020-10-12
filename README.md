@@ -1,4 +1,4 @@
-# RestAPI
+# Scala RestAPI
 
 Разработать небольшой REST API сервис на языке программирования Scala.
 
