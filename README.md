@@ -17,7 +17,7 @@ sbt run
   "action": "git.push"
 }
 ```
-Пример запроса через коммандную строку или PowerShell:
+Пример запроса через командную строку или PowerShell:
 
 ```
 curl localhost:9000/category/{category_name}
