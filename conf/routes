@@ -1,0 +1,12 @@
+# Routes
+# This file defines all application routes (Higher priority routes first)
+# https://www.playframework.com/documentation/latest/ScalaRouting
+# ~~~~
+
+
+GET         /category/:vcategoryName        controllers.ActionListController.getByCategory(vcategoryName: String)
+
+
+POST        /add                           controllers.ActionListController.addNewItem
+
+
